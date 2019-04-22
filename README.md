@@ -6,7 +6,7 @@ multiple attempt to login from the same IP address for given period of time.
 ## Requirements 
 
 If you want to build this project you will install sbt > 1.0 and JDK 8. 
-For start you need only JRE 8.
+For using you need only JRE 8.
 
 ## Build
 
